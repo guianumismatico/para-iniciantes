@@ -1,13 +1,42 @@
 # Guia Numismático para Colecionadores Iniciantes
-
-![Capa do ebook - Guia Numismático para Colecionadores Iniciantes](capa.png)
-
 [![Downloads](https://img.shields.io/github/downloads/guianumismatico/para-iniciantes/total?color=green&label=downloads&logo=download&logoColor=white)](https://github.com/guianumismatico/para-iniciantes/releases)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/guianumismatico/para-iniciantes?color=blue&label=versão%20mais%20recente)](https://github.com/guianumismatico/para-iniciantes/releases/latest)
+<br>
 
-**Um ebook 100% gratuito para quem está começando na numismática**
+<p align="center">
+  <a href="https://github.com/guianumismatico/para-iniciantes/releases/download/numismatica/guia_numismatico_para_iniciantes_vol1.pdf">
+    <img src="https://img.shields.io/badge/BAIXAR%20AGORA%20%E2%86%92%20GR%C3%81TIS%20%E2%9A%A1%EF%B8%8F%20%E2%80%93%20PDF-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=006400" 
+         alt="BAIXAR AGORA → GRÁTIS" 
+         width="100%" 
+         style="max-width:800px; height:auto; margin:20px 0;">
+  </a>
+</p>
 
-Escrito por **Geórgia Gabriela Mazurechen**
+<p align="center" style="font-size: 1.6em; font-weight: bold; color: #006600; margin: 20px 0;">
+  CLIQUE ACIMA PARA BAIXAR O EBOOK 100% GRATUITO AGORA MESMO!
+</p>
+
+<p align="center">
+  <strong>Versão mais recente: v1.0 – Sem cadastro, sem pagamento</strong><br>
+  PDF (celular/computador) + EPUB (Kindle/Kobo)
+</p>
+
+**Escrito por Geórgia Gabriela Mazurechen**
+
+![Guia Numismático para Colecionadores Iniciantes](capa.png)
+
+<p align="center">
+  <a href="https://github.com/guianumismatico/para-iniciantes/releases/download/numismatica/guia_numismatico_para_iniciantes_vol1.pdf">
+    <img src="https://img.shields.io/badge/BAIXAR%20AGORA%20%E2%86%92%20GR%C3%81TIS%20%E2%9A%A1%EF%B8%8F%20%E2%80%93%20PDF-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=006400" 
+         alt="BAIXAR AGORA → GRÁTIS" 
+         width="100%" 
+         style="max-width:800px; height:auto; margin:20px 0;">
+  </a>
+</p>
+
+<p align="center" style="font-size: 1.6em; font-weight: bold; color: #006600; margin: 20px 0;">
+  CLIQUE ACIMA PARA BAIXAR O EBOOK 100% GRATUITO AGORA MESMO!
+</p>
+
 
 ## Sobre o livro
 
@@ -15,17 +44,18 @@ Escrito por **Geórgia Gabriela Mazurechen**
 
 Você vai aprender:
 
-- O que é numismática e por que ela é tão interessante.
-- Como começar sua coleção sem gastar muito dinheiro.
-- O que olhar em uma moeda (ano, país, estado de conservação, erros de cunhagem).
-- Como guardar e proteger suas moedas corretamente.
-- A diferença entre os estados de conservação das moedas.
-- Dicas para identificar moedas falsas.
+- O que é numismática e por que ela é tão interessante
+- Como começar sua coleção sem gastar muito dinheiro
+- O que olhar em uma moeda (ano, país, estado de conservação, erros de cunhagem)
+- Como guardar e proteger suas moedas corretamente
+- A diferença entre os estados de conservação das moedas
+- Dicas para identificar moedas falsas
 - Como montar uma coleção temática (por país, ano, animal, etc.)
-- A história monetária brasileira.
-- Os principais erros em moedas.
+- A história monetária brasileira
+- Os principais erros em moedas
 
-Tudo explicado de forma tranquila, sem termos difíceis e sem complicação.
+Tudo explicado de forma tranquila, sem termos técnicos difíceis e sem complicação.
+
 
 ## Quem pode ler?
 
