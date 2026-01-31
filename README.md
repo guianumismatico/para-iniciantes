@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/guianumismatico/para-iniciantes/releases/download/numismatica/guia_numismatico_para_iniciantes_vol1.pdf">
     <img src="https://img.shields.io/badge/BAIXAR%20AGORA%20%E2%86%92%20GR%C3%81TIS%20%E2%9A%A1%EF%B8%8F%20%E2%80%93%20PDF-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=006400" 
-         alt="BAIXAR AGORA → GRÁTIS" 
+         alt="BAIXE O EBOOK AQUI" 
          width="100%" 
          style="max-width:800px; height:auto; margin:20px 0;">
   </a>
@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://github.com/guianumismatico/para-iniciantes/releases/download/numismatica/guia_numismatico_para_iniciantes_vol1.pdf">
     <img src="https://img.shields.io/badge/BAIXAR%20AGORA%20%E2%86%92%20GR%C3%81TIS%20%E2%9A%A1%EF%B8%8F%20%E2%80%93%20PDF-brightgreen?style=for-the-badge&logo=download&logoColor=white&labelColor=006400" 
-         alt="BAIXAR AGORA → GRÁTIS" 
+         alt="BAIXE O EBOOK AQUI" 
          width="100%" 
          style="max-width:800px; height:auto; margin:20px 0;">
   </a>
@@ -110,4 +110,5 @@ Obrigado por baixar e boa coleção!
 Que sua primeira moeda seja só o começo de uma grande aventura. 🪙
 
 Feito com carinho para quem está começando.
+
 
