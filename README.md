@@ -17,7 +17,7 @@
 
 <p align="center">
   <strong>Versão mais recente: v1.0 – Sem cadastro, sem pagamento</strong><br>
-  PDF (celular/computador) + EPUB (Kindle/Kobo)
+  PDF (celular/computador)
 </p>
 
 **Escrito por Geórgia Gabriela Mazurechen**
@@ -44,15 +44,15 @@
 
 Você vai aprender:
 
-- O que é numismática e por que ela é tão interessante
-- Como começar sua coleção sem gastar muito dinheiro
-- O que olhar em uma moeda (ano, país, estado de conservação, erros de cunhagem)
-- Como guardar e proteger suas moedas corretamente
-- A diferença entre os estados de conservação das moedas
-- Dicas para identificar moedas falsas
-- Como montar uma coleção temática (por país, ano, animal, etc.)
-- A história monetária brasileira
-- Os principais erros em moedas
+- O que é numismática e por que ela é tão interessante.
+- Como começar sua coleção sem gastar muito dinheiro.
+- O que olhar em uma moeda (ano, país, estado de conservação, erros de cunhagem).
+- Como guardar e proteger suas moedas corretamente.
+- A diferença entre os estados de conservação das moedas.
+- Dicas para identificar moedas falsas.
+- Como montar uma coleção temática (por país, ano, animal etc.).
+- A história monetária brasileira.
+- Os principais erros.
 
 Tudo explicado de forma tranquila, sem termos técnicos difíceis e sem complicação.
 
@@ -67,14 +67,13 @@ O livro foi feito para iniciantes de verdade!
 
 1. Vá até a seção **[Releases](https://github.com/guianumismatico/para-iniciantes/releases)**
 2. Clique na versão mais recente (exemplo: v1.0)
-3. Baixe o arquivo **Guia_numismático_para_iniciantes** no formato que preferir.
+3. Baixe o arquivo **Guia_numismático_para_iniciantes** .
 
 Pronto! O ebook é seu, sem cadastro, sem pagamento, sem limite de download.
 
 ## Formatos disponíveis
 
 - PDF (melhor para celular, tablet e computador)
-- EPUB (ótimo para leitores digitais como Kindle, Kobo, etc.)
 
 ## Contribua com o projeto (opcional)
 
@@ -86,7 +85,7 @@ Se você gostar do ebook e quiser ajudar a mantê-lo vivo e gratuito:
 - Tem sugestões de temas para a próxima versão? Deixe sua ideia nos comentários
 - Compartilhe com amigos colecionadores ou pessoas que estão começando
 
-## Quer divulgar na próxima edição do ebook?
+## Quer divulgar na próxima edição do Guia?
 
 Entre em contato pelo gmail georgiagmazu@gmail.com ou envie uma mensagem para o número 42999122095.
 
@@ -111,3 +110,4 @@ Obrigado por baixar e boa coleção!
 Que sua primeira moeda seja só o começo de uma grande aventura. 🪙
 
 Feito com carinho para quem está começando.
+
